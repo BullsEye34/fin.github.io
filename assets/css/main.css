@@ -3317,7 +3317,7 @@ input, select, textarea {
 
 	#main {
 		background-color: #ffffff;
-		color: #636363;
+		color: #eee;
         background-color: rgba(27, 31, 34, 0.3);
 		border-radius: 0.25em;
 	}
@@ -3424,7 +3424,7 @@ input, select, textarea {
 				}
 
 		#main label {
-			color: #636363;
+			color: #eee;
 		}
 
 		#main input[type="text"],
@@ -3450,13 +3450,13 @@ input, select, textarea {
 		}
 
 			#main select option {
-				color: #636363;
-				background: #ffffff;
+				color: #eee;
+				background: #eee;
 			}
 
 		#main input[type="checkbox"] + label,
 		#main input[type="radio"] + label {
-			color: #636363;
+			color: #eee;
 		}
 
 			#main input[type="checkbox"] + label:before,
@@ -3467,9 +3467,9 @@ input, select, textarea {
 
 		#main input[type="checkbox"]:checked + label:before,
 		#main input[type="radio"]:checked + label:before {
-			background-color: #636363;
-			border-color: #636363;
-			color: #ffffff;
+			background-color: #eee;
+			border-color: #eee;
+			color: #eee;
 		}
 
 		#main input[type="checkbox"]:focus + label:before,
@@ -3503,12 +3503,12 @@ input, select, textarea {
 		}
 
 			#main .icon.major:before {
-				border-color: #333333;
+				border-color: #eee;
 			}
 
 		#main .icon.alt {
-			border-color: #333333;
-			color: #636363;
+			border-color: #eee;
+			color: #eee;
 		}
 
 			#main .icon.alt:hover {
@@ -3520,15 +3520,15 @@ input, select, textarea {
 			}
 
 		#main ul.alt li {
-			border-top-color: #333333;
+			border-top-color: #eee;
 		}
 
 		#main dl dt {
-			color: #636363;
+			color: #eee;
 		}
 
 		#main header.major h2:after {
-			background-color: #333333;
+			background-color: #eee;
 			background-image: -moz-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
 			background-image: -webkit-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
 			background-image: -ms-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
@@ -3536,7 +3536,7 @@ input, select, textarea {
 		}
 
 		#main table tbody tr {
-			border-color: #333333;
+			border-color: #eee;
 		}
 
 			#main table tbody tr:nth-child(2n + 1) {
